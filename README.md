@@ -1,0 +1,1 @@
+# sonarqubeamazonlinux.md
